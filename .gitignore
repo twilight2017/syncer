@@ -3,10 +3,10 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
-
+venv
 # Other files and folders
 .settings/
-
+.idea
 # Executables
 *.swf
 *.air
